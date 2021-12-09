@@ -7,10 +7,10 @@ public class xoaphantu {
         int n, i, c;
         Scanner scanner = new Scanner(System.in);
 
-        do {
+
             System.out.println("Nhập vào số phần tử của mảng: ");
             n = scanner.nextInt();
-        } while (n <= 0);
+
 
         int A[] = new int[n];
 
