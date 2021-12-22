@@ -1,4 +1,4 @@
-package kethua.bai_tap.point2D_point3D;
+package ss6_ke_thua.bai_tap.point2D_point3D;
 
 public class Test {
     public static void main(String[] args) {

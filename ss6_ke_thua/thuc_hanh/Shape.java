@@ -1,4 +1,4 @@
-package kethua.thuc_hanh;
+package ss6_ke_thua.thuc_hanh;
 
 public class Shape {
     private String color;

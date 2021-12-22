@@ -1,4 +1,4 @@
-package kethua.bai_tap.point_MoveablePoint;
+package ss6_ke_thua.bai_tap.point_MoveablePoint;
 
 public class MovablePoint extends  Point{
     private float xSpeed = 0.0f;
