@@ -1,4 +1,4 @@
-package ss16_io_textFile.bai_tap;
+package ss16_io_textFile.bai_tap.copyFile;
 
 import java.io.*;
 
